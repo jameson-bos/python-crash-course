@@ -1,4 +1,5 @@
-print("Are you ready to play?")
+import random
 
-if print != "yes":
-    quit()
+computer = random.randint(0,5)
+
+print(computer)
