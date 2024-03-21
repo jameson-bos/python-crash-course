@@ -1,5 +1,3 @@
-import random
+greeting = "Hello, Brittany"
 
-computer = random.randint(0,5)
-
-print(computer)
+print(greeting)
